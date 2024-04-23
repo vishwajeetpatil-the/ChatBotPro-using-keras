@@ -1,0 +1,2 @@
+# ChatBotPro Using Keras
+  Keras typically involves building a neural network model for natural language processing tasks. This involves defining a sequential model and adding layers such as Dense layers with activation functions like ReLU or softmax. The model is then compiled with an optimizer and loss function, trained on a dataset of conversations, and evaluated for accuracy. Finally, the trained model can be used to predict responses to user inputs, providing a conversational interface.
